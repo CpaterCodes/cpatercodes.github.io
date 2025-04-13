@@ -1,8 +1,9 @@
-@font-face {
-	font-family: EagleLake;
-	src: url("https://fonts.googleapis.com/css2?family=Eagle+Lake");
-}
+
+@import url(
+	'https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap'
+);
+
 * {
-	font-family: EagleLake;
+	font-family: "Eagle Lake";
 }
 
